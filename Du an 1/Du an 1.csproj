@@ -5,4 +5,8 @@
     <RootNamespace>Du_an_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>

@@ -50,7 +50,7 @@ namespace Du_an_1
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=MayTinh}/{action=XuLy}/{id?}");
+                    pattern: "{controller=Register}/{action=Index}/{id?}");
             });
         }
     }
